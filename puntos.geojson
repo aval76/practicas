@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1024177,4.6377596 ]
+    },
+    "properties": {
+    "id":1,
+    "name":"Supermercado Colsubsidio",
+    "description":"Venta de vivieres, drogueria y licores.",
+    "photo":"colsubsidio.png",
+    "owner":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0994566,4.6365198 ]
+    },
+    "properties": {
+    "id":2,
+    "name":"Prados del Salitre - Armando",
+    "description":"Casa de Armando.",
+    "photo":"casaArmando.png",
+    "owner":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0994613,4.6420297 ]
+    },
+    "properties": {
+    "id":3,
+    "name":"Portal del Salitre - Jaime",
+    "description":"Casa de Jaimito.",
+    "photo":"casaJaime.png",
+    "owner":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1003967,4.6449143 ]
+    },
+    "properties": {
+    "id":4,
+    "name":"ANM",
+    "description":"Agencia Nacional de Mineria.",
+    "photo":"anm.png",
+    "owner":"#"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1016984,4.6464343 ]
+    },
+    "properties": {
+    "id":5,
+    "name":"Trencito",
+    "description":"Trencito de Gran Estacion.",
+    "photo":"trencito.png",
+    "owner":"#"
+    }
+  }
+]
+}
